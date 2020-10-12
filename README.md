@@ -13,9 +13,9 @@
 ## Description
 Kubernetes
 
-## Installation Instructions
+## Installation
 
-## Usage Information
+## Usage
 
 ## License
 
